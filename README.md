@@ -1,5 +1,6 @@
 # SecureAccessFrontEnd
-
+Overview
+The SecureAccess Frontend is built with Angular and provides a user-friendly interface for interacting with the SecureAccess backend. This application handles user login, registration and communicates with the backend services via APIs
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.0.10.
 
 ## Development server
