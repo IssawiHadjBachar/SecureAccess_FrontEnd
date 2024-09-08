@@ -1,0 +1,19 @@
+/* app.component.css */
+.container {
+    display: flex;
+    justify-content: center; /* Center horizontally */
+    align-items: center;     /* Center vertically */
+    height: 100vh;          
+    font-family: 'Inter', Arial;
+}
+
+.centered-text {
+    font-size: 150px;          /* Adjust size as needed */
+    text-align: center; 
+    color: transparent;              
+    text-shadow: 
+        1px 1px 0 azure, 
+        -1px -1px 0 azure, 
+        1px -1px 0 azure, 
+        -1px 1px 0 azure;    /* Border effect */
+}

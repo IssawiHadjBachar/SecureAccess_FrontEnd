@@ -1,0 +1,25 @@
+/* You can add global styles to this file, and also import other style files */
+@import "bootstrap/dist/css/bootstrap.min.css";
+@import "@fortawesome/fontawesome-free/css/all.min.css";
+body{
+  height: 100vh;
+}
+.login-container {
+  width: 600px !important;
+  margin-top: 15%;
+}
+h3{
+  margin-top: 10px;
+  color: #0d6efd;
+}
+.cursor-pointer {
+  cursor: pointer;
+}
+
+body {
+  background-image: url('assets/img.avif');
+  background-size: cover; 
+  background-position: center; 
+  background-repeat: no-repeat; 
+ 
+}
